@@ -38,8 +38,8 @@ function initializeCountList(counties, dates) {
     deathsList[county] = {};
 
     dates.forEach((date) => {
-      confirmedList[county][date] = '0';
-      deathsList[county][date] = '0';
+      confirmedList[county][date] = 0;
+      deathsList[county][date] = 0;
     });
   });
 
@@ -59,8 +59,8 @@ function extract(targetState, filepath, confirmedList, deathsList) {
 
   rows.forEach(([date, county, state, fips, cases, deaths]) => {      //The arrow says for every thing, do that action
     if ( targetState.localeCompare(state) == 0 ) {
-      confirmedList[county][date] = cases;
-      deathsList[county][date] = deaths;
+      confirmedList[county][date] = parseInt(cases);
+      deathsList[county][date] = parseInt(deaths);
     }
   });
 
