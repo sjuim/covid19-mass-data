@@ -3,36 +3,19 @@ This project reads data from the NY Times repository [covid-19-data](https://git
 The json file contains the number of Coronavirus confirmed cases and deaths for every Massachusetts county and every day since 2020-02-01. A sample entry is shown below:
 
 ```
-{
-  "Suffolk": [
+{"Suffolk": [
     {
-      "date": "2020-1-22",
-      "confirmed": 2,
+      "date": "2020-02-01",
+      "confirmed": 1,
       "deaths": 0,
-      "recovered": 0
+      "recovered": null
     },
     {
-      "date": "2020-1-23",
-      "confirmed": 3,
+      "date": "2020-02-02",
+      "confirmed": 1,
       "deaths": 0,
-      "recovered": 0
+      "recovered": null
     },
-    ...
-  ],
-  ...
-}
-```
-
-For example, if you want to use it from a web site:
-
-```js
-fetch("https://pomber.github.io/covid19/timeseries.json")
-  .then(response => response.json())
-  .then(data => {
-    data["Argentina"].forEach(({ date, confirmed, recovered, deaths }) =>
-      console.log(`${date} active cases: ${confirmed - recovered - deaths}`)
-    );
-  });
 ```
 
 ### Projects using this dataset ([+ add yours](#user-content-adding-your-project-to-the-list))
@@ -138,6 +121,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Interactive charts.js visualization COVID19](https://gifted-shockley-19f8b9.netlify.app//) ([repo](https://github.com/freethrow/covid19)): Daily updated for all countries with population metrics.
 - [Linked COVID-19 Data](http://covid19data.link/) ([repo](https://github.com/Research-Squirrel-Engineers/COVID-19)): Website to visualise COVID-19 from RDF.
 - [Interactive eCharts for all countries of the world ](https://entorb.net/COVID-19-coronavirus/#CountriesCustomChart) ([repo](https://github.com/entorb/COVID-19-Coronavirus-German-Regions)): Select from a wide range of properties for all countries of the world, data scaled by population. 
+- [coronow-local-cities](https://github.com/sjuim/coronow-local-cities/blob/master/README.md) combined with [covid19-mass-data](https://github.com/sjuim/covid19-mass-data/edit/master/readme.md): A dashboard based on the dashboard above called Coronow, which uses graphs to display the cases and deaths for Massachusetts counties.
 
 #### Analysis
 
