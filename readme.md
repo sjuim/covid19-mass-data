@@ -1,10 +1,10 @@
-This project reads data from the NY Times repository [covid-19-data](https://github.com/nytimes/covid-19-data/blob/master/README.md) into a json file. Available at [https://pomber.github.io/covid19/timeseries.json](https://pomber.github.io/covid19/timeseries.json). Updated three times a day using GitHub Actions.
+This project reads data from the NY Times repository [covid-19-data](https://github.com/nytimes/covid-19-data/blob/master/README.md) into a json file. It is updated manually from the NY Times repository, which contains information on the number of cases and deaths for every single US county each from whenever each county started tracking the data.
 
-The json contains the number of Coronavirus confirmed cases, deaths, and recovered cases for every country and every day since 2020-1-22:
+The json file contains the number of Coronavirus confirmed cases and deaths for every Massachusetts county and every day since 2020-02-01. A sample entry is shown below:
 
 ```
 {
-  "Thailand": [
+  "Suffolk": [
     {
       "date": "2020-1-22",
       "confirmed": 2,
