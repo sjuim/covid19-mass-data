@@ -5,7 +5,7 @@ const parse = require("csv-parse/lib/sync");
 
 
 // Extract the list of all possible dates and all possible counties from the file
-function extractDatesCounties(filepath) {
+function extractDatesCounties(targetState, filepath) {
   const csv = fs.readFileSync(filepath);
   const [headers, ...rows] = parse(csv);
   const [date, county, state, fips, cases, deaths] = headers;
@@ -13,8 +13,10 @@ function extractDatesCounties(filepath) {
   const countyList = [];
   
   rows.forEach(([date, county, state, fips, cases, deaths], idx) => {      //The arrow says for every thing, do that action
-    dateList[date] = date;
-    countyList[county] = county;
+    if ( targetState.localeCompare(state) == 0 ) {
+      dateList[date] = date;
+      countyList[county] = county;
+    }
   });
 
   return [Object.keys(countyList), Object.keys(dateList)];
@@ -50,14 +52,16 @@ function initializeCountList(counties, dates) {
 
 
 //Reading from the country data method
-function extract(filepath, confirmedList, deathsList) {
+function extract(targetState, filepath, confirmedList, deathsList) {
   const csv = fs.readFileSync(filepath);
   const [headers, ...rows] = parse(csv);
   const [date, county, state, fips, cases, deaths] = headers;
 
   rows.forEach(([date, county, state, fips, cases, deaths]) => {      //The arrow says for every thing, do that action
-    confirmedList[county][date] = cases;
-    deathsList[county][date] = deaths;
+    if ( targetState.localeCompare(state) == 0 ) {
+      confirmedList[county][date] = cases;
+      deathsList[county][date] = deaths;
+    }
   });
 
   console.log("extract:", "Confirmed List", confirmedList);
@@ -67,14 +71,14 @@ function extract(filepath, confirmedList, deathsList) {
 }
 
 // Main entry point of this module
-function update(dataPath, outputPath) {
+function update(targetState, dataPath, outputPath) {
   // Because the data is not present for every county for every date, it can lead to a sparse matrix
   // We want to find all dates and counties and then initialize a 2-dimentional array
-  const [counties, dates] = extractDatesCounties(dataPath);
+  const [counties, dates] = extractDatesCounties(targetState, dataPath);
   var [confirmed, deaths] = initializeCountList(counties, dates);
 
   // This extracts the count from the file
-  [confirmed, deaths] = extract(dataPath, confirmed, deaths);  
+  [confirmed, deaths] = extract(targetState, dataPath, confirmed, deaths);  
 
   const results = {};
 
