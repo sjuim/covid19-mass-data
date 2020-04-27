@@ -17,3 +17,4 @@ The json file contains the number of Coronavirus confirmed cases and deaths for 
       "recovered": null
     },
 ```
+This project was built on top of the work done by https://github.com/pomber/covid19. Whereas the original work sourced information from Johns Hopkins university and focused on country by country statistics, my work utlizes the NY Times data and focuses on statistics at the county level within the Commonwealth of Massachusetts.
