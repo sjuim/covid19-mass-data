@@ -521,6 +521,12 @@
       "confirmed": 11883,
       "deaths": 448,
       "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 12140,
+      "deaths": 469,
+      "recovered": null
     }
   ],
   "Norfolk": [
@@ -1044,6 +1050,12 @@
       "date": "2020-04-27",
       "confirmed": 5398,
       "deaths": 429,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 5567,
+      "deaths": 448,
       "recovered": null
     }
   ],
@@ -1569,6 +1581,12 @@
       "confirmed": 12953,
       "deaths": 700,
       "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 13417,
+      "deaths": 731,
+      "recovered": null
     }
   ],
   "Berkshire": [
@@ -2091,6 +2109,12 @@
     {
       "date": "2020-04-27",
       "confirmed": 428,
+      "deaths": 31,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 430,
       "deaths": 31,
       "recovered": null
     }
@@ -2617,6 +2641,12 @@
       "confirmed": 4744,
       "deaths": 215,
       "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 4999,
+      "deaths": 229,
+      "recovered": null
     }
   ],
   "Essex": [
@@ -3141,6 +3171,12 @@
       "confirmed": 7708,
       "deaths": 359,
       "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 7972,
+      "deaths": 383,
+      "recovered": null
     }
   ],
   "Barnstable": [
@@ -3663,6 +3699,12 @@
     {
       "date": "2020-04-27",
       "confirmed": 798,
+      "deaths": 39,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 820,
       "deaths": 39,
       "recovered": null
     }
@@ -4189,6 +4231,12 @@
       "confirmed": 3068,
       "deaths": 137,
       "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 3270,
+      "deaths": 155,
+      "recovered": null
     }
   ],
   "Hampden": [
@@ -4712,6 +4760,12 @@
       "date": "2020-04-27",
       "confirmed": 3381,
       "deaths": 337,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 3546,
+      "deaths": 346,
       "recovered": null
     }
   ],
@@ -5237,6 +5291,12 @@
       "confirmed": 4607,
       "deaths": 240,
       "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 4744,
+      "deaths": 256,
+      "recovered": null
     }
   ],
   "Unknown": [
@@ -5761,6 +5821,12 @@
       "confirmed": 795,
       "deaths": 8,
       "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 625,
+      "deaths": 5,
+      "recovered": null
     }
   ],
   "Franklin": [
@@ -6283,6 +6349,12 @@
     {
       "date": "2020-04-27",
       "confirmed": 231,
+      "deaths": 33,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 237,
       "deaths": 33,
       "recovered": null
     }
@@ -6809,6 +6881,12 @@
       "confirmed": 443,
       "deaths": 26,
       "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 509,
+      "deaths": 27,
+      "recovered": null
     }
   ],
   "Nantucket": [
@@ -7333,6 +7411,12 @@
       "confirmed": 10,
       "deaths": 0,
       "recovered": null
+    },
+    {
+      "date": "2020-04-28",
+      "confirmed": 11,
+      "deaths": 0,
+      "recovered": null
     }
   ],
   "Dukes": [
@@ -7854,6 +7938,12 @@
     },
     {
       "date": "2020-04-27",
+      "confirmed": 15,
+      "deaths": 1,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-28",
       "confirmed": 15,
       "deaths": 1,
       "recovered": null
