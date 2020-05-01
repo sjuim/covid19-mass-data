@@ -533,6 +533,12 @@
       "confirmed": 12539,
       "deaths": 504,
       "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 12890,
+      "deaths": 524,
+      "recovered": null
     }
   ],
   "Norfolk": [
@@ -1068,6 +1074,12 @@
       "date": "2020-04-29",
       "confirmed": 5700,
       "deaths": 484,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 5896,
+      "deaths": 499,
       "recovered": null
     }
   ],
@@ -1605,6 +1617,12 @@
       "confirmed": 13799,
       "deaths": 802,
       "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 14208,
+      "deaths": 845,
+      "recovered": null
     }
   ],
   "Berkshire": [
@@ -2140,6 +2158,12 @@
       "date": "2020-04-29",
       "confirmed": 440,
       "deaths": 34,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 442,
+      "deaths": 35,
       "recovered": null
     }
   ],
@@ -2677,6 +2701,12 @@
       "confirmed": 5300,
       "deaths": 253,
       "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 5550,
+      "deaths": 265,
+      "recovered": null
     }
   ],
   "Essex": [
@@ -3212,6 +3242,12 @@
       "date": "2020-04-29",
       "confirmed": 8380,
       "deaths": 425,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 8673,
+      "deaths": 448,
       "recovered": null
     }
   ],
@@ -3749,6 +3785,12 @@
       "confirmed": 842,
       "deaths": 40,
       "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 860,
+      "deaths": 43,
+      "recovered": null
     }
   ],
   "Bristol": [
@@ -4284,6 +4326,12 @@
       "date": "2020-04-29",
       "confirmed": 3429,
       "deaths": 165,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 3580,
+      "deaths": 172,
       "recovered": null
     }
   ],
@@ -4821,6 +4869,12 @@
       "confirmed": 3698,
       "deaths": 358,
       "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 3777,
+      "deaths": 373,
+      "recovered": null
     }
   ],
   "Plymouth": [
@@ -5357,6 +5411,12 @@
       "confirmed": 4871,
       "deaths": 273,
       "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 5083,
+      "deaths": 285,
+      "recovered": null
     }
   ],
   "Unknown": [
@@ -5891,6 +5951,12 @@
     {
       "date": "2020-04-29",
       "confirmed": 457,
+      "deaths": 5,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 415,
       "deaths": 5,
       "recovered": null
     }
@@ -6429,6 +6495,12 @@
       "confirmed": 252,
       "deaths": 35,
       "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 257,
+      "deaths": 37,
+      "recovered": null
     }
   ],
   "Hampshire": [
@@ -6964,6 +7036,12 @@
       "date": "2020-04-29",
       "confirmed": 531,
       "deaths": 26,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 546,
+      "deaths": 30,
       "recovered": null
     }
   ],
@@ -7501,6 +7579,12 @@
       "confirmed": 11,
       "deaths": 0,
       "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 11,
+      "deaths": 0,
+      "recovered": null
     }
   ],
   "Dukes": [
@@ -8035,6 +8119,12 @@
     {
       "date": "2020-04-29",
       "confirmed": 16,
+      "deaths": 1,
+      "recovered": null
+    },
+    {
+      "date": "2020-04-30",
+      "confirmed": 17,
       "deaths": 1,
       "recovered": null
     }
