@@ -599,6 +599,36 @@
       "confirmed": 15279,
       "deaths": 718,
       "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 15356,
+      "deaths": 731,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 15454,
+      "deaths": 732,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 15587,
+      "deaths": 749,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 15881,
+      "deaths": 759,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 15996,
+      "deaths": 768,
+      "recovered": null
     }
   ],
   "Norfolk": [
@@ -1200,6 +1230,36 @@
       "date": "2020-05-10",
       "confirmed": 6952,
       "deaths": 650,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 7004,
+      "deaths": 661,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 7046,
+      "deaths": 663,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 7129,
+      "deaths": 676,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 7258,
+      "deaths": 696,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 7331,
+      "deaths": 710,
       "recovered": null
     }
   ],
@@ -1803,6 +1863,36 @@
       "confirmed": 17589,
       "deaths": 1207,
       "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 17774,
+      "deaths": 1235,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 17953,
+      "deaths": 1244,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 18201,
+      "deaths": 1282,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 18381,
+      "deaths": 1327,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 18683,
+      "deaths": 1347,
+      "recovered": null
     }
   ],
   "Berkshire": [
@@ -2403,6 +2493,36 @@
     {
       "date": "2020-05-10",
       "confirmed": 475,
+      "deaths": 37,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 478,
+      "deaths": 37,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 485,
+      "deaths": 37,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 486,
+      "deaths": 37,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 488,
+      "deaths": 37,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 491,
       "deaths": 37,
       "recovered": null
     }
@@ -3007,6 +3127,36 @@
       "confirmed": 7743,
       "deaths": 444,
       "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 7818,
+      "deaths": 457,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 7959,
+      "deaths": 459,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 8241,
+      "deaths": 489,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 8555,
+      "deaths": 524,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 8786,
+      "deaths": 538,
+      "recovered": null
     }
   ],
   "Essex": [
@@ -3608,6 +3758,36 @@
       "date": "2020-05-10",
       "confirmed": 11353,
       "deaths": 644,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 11432,
+      "deaths": 669,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 11572,
+      "deaths": 678,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 11703,
+      "deaths": 704,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 11950,
+      "deaths": 725,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 12131,
+      "deaths": 751,
       "recovered": null
     }
   ],
@@ -4211,6 +4391,36 @@
       "confirmed": 1068,
       "deaths": 68,
       "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 1075,
+      "deaths": 73,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 1093,
+      "deaths": 73,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 1111,
+      "deaths": 79,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 1119,
+      "deaths": 82,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 1137,
+      "deaths": 86,
+      "recovered": null
     }
   ],
   "Bristol": [
@@ -4812,6 +5022,36 @@
       "date": "2020-05-10",
       "confirmed": 4931,
       "deaths": 266,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 4999,
+      "deaths": 274,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 5125,
+      "deaths": 278,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 5249,
+      "deaths": 288,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 5440,
+      "deaths": 297,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 5590,
+      "deaths": 303,
       "recovered": null
     }
   ],
@@ -5415,6 +5655,36 @@
       "confirmed": 4714,
       "deaths": 449,
       "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 4763,
+      "deaths": 458,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 4831,
+      "deaths": 464,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 4889,
+      "deaths": 475,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 4974,
+      "deaths": 487,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 5038,
+      "deaths": 494,
+      "recovered": null
     }
   ],
   "Plymouth": [
@@ -6016,6 +6286,36 @@
       "date": "2020-05-10",
       "confirmed": 6382,
       "deaths": 393,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 6457,
+      "deaths": 408,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 6507,
+      "deaths": 409,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 6592,
+      "deaths": 424,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 6774,
+      "deaths": 435,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 6875,
+      "deaths": 444,
       "recovered": null
     }
   ],
@@ -6619,6 +6919,36 @@
       "confirmed": 303,
       "deaths": 5,
       "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 287,
+      "deaths": 5,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 273,
+      "deaths": 4,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 264,
+      "deaths": 4,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 300,
+      "deaths": 3,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 285,
+      "deaths": 2,
+      "recovered": null
     }
   ],
   "Franklin": [
@@ -7220,6 +7550,36 @@
       "date": "2020-05-10",
       "confirmed": 294,
       "deaths": 42,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 296,
+      "deaths": 42,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 297,
+      "deaths": 42,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 302,
+      "deaths": 43,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 302,
+      "deaths": 43,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 304,
+      "deaths": 43,
       "recovered": null
     }
   ],
@@ -7823,6 +8183,36 @@
       "confirmed": 676,
       "deaths": 55,
       "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 688,
+      "deaths": 57,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 702,
+      "deaths": 57,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 708,
+      "deaths": 64,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 724,
+      "deaths": 66,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 738,
+      "deaths": 67,
+      "recovered": null
     }
   ],
   "Nantucket": [
@@ -8423,6 +8813,36 @@
     {
       "date": "2020-05-10",
       "confirmed": 11,
+      "deaths": 0,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 12,
+      "deaths": 0,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 12,
+      "deaths": 0,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 12,
+      "deaths": 0,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 12,
+      "deaths": 0,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 12,
       "deaths": 0,
       "recovered": null
     }
@@ -9026,6 +9446,36 @@
       "date": "2020-05-10",
       "confirmed": 23,
       "deaths": 1,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-11",
+      "confirmed": 23,
+      "deaths": 1,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-12",
+      "confirmed": 23,
+      "deaths": 1,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-13",
+      "confirmed": 23,
+      "deaths": 1,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-14",
+      "confirmed": 24,
+      "deaths": 1,
+      "recovered": null
+    },
+    {
+      "date": "2020-05-15",
+      "confirmed": 24,
+      "deaths": 2,
       "recovered": null
     }
   ]
